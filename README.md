@@ -8,3 +8,6 @@ Selecting the alert button
 
 ### Checkboxes
 Selecting and unseleceting the check boxes
+
+### Dropdown
+Selecting the dropdown option
