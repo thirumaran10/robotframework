@@ -14,3 +14,6 @@ Selecting the dropdown option
 
 ### Data Driven Test
 Input datas
+
+### Get Link
+Get the website link
