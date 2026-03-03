@@ -32,3 +32,6 @@ Using the mouse action
 
 ### Multiple Browser
 Using multiple browsers and multiple URL
+
+### Radio Button
+Using the radio button
