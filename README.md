@@ -26,3 +26,6 @@ Login web page
 
 ### Loop
 Using For loop in agumentation
+
+### Mouse Action
+Using the mouse action
