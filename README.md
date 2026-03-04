@@ -41,3 +41,6 @@ Scrolling the browser
 
 ### Tabbed Window
 Switching the window
+
+### Table Validation
+Validating the table in a browser
