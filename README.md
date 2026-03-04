@@ -38,3 +38,6 @@ Using the radio button
 
 ### Scrolling 
 Scrolling the browser
+
+### Tabbed Window
+Switching the window
