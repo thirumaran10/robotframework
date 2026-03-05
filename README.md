@@ -2,6 +2,9 @@
 
 ## This Repo contains the basic Robot framework code for automation 
 
+## Tech stack
+
+
 ### Alerts
 Selecting the alert button
 
