@@ -5,6 +5,7 @@
 ## Tech stack
 - Version 7.4
 - Selenium Library
+  
 ### Alerts
 Selecting the alert button
 
