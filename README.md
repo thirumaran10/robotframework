@@ -1,7 +1,6 @@
 # Robot FrameWork Automation
 
-## This Repo contains the Robot framework code for automation 
-
+## This Repo contains the basic Robot framework code for automation 
 
 ### Alerts
 Selecting the alert button
