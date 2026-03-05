@@ -3,7 +3,7 @@
 ## This Repo contains the basic Robot framework code for automation 
 
 ## Tech stack
-
+- Version 7.4
 
 ### Alerts
 Selecting the alert button
