@@ -27,11 +27,11 @@ Using the Keyboard actions
 ### Login Page
 Login web page
 
-### Loop
-Using For loop in agumentation
-
 ### Mouse Action
 Using the mouse action
+
+### Loop
+Using For loop in agumentation
 
 ### Radio Button
 Using the radio button
