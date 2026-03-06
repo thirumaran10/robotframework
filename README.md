@@ -12,11 +12,11 @@ Selecting the alert button
 ### Checkboxes
 Selecting and unseleceting the check boxes
 
-### Dropdown
-Selecting the dropdown option
-
 ### Data Driven Test
 Input datas
+
+### Dropdown
+Selecting the dropdown option
 
 ### Get Link
 Get the website link
