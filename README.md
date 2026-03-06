@@ -48,8 +48,9 @@ Switching the window
 ### Table Validation
 Validating the table in a browser
 
+### X-Path
+Relational and absolute x-path
+
 ### Waits
 Set waits to the webpage
 
-### X-Path
-Relational and absolute x-path
