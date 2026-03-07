@@ -45,11 +45,11 @@ Scrolling the browser
 ### Tabbed Window
 Switching the window
 
-### Waits
-Set waits to the webpage
-
 ### Table Validation
 Validating the table in a browser
+
+### Waits
+Set waits to the webpage
 
 ### X-Path
 Relational and absolute x-path
