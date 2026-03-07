@@ -24,11 +24,11 @@ Get the website link
 ###  Keyboard Action
 Using the Keyboard actions 
 
-### Login Page
-Login web page
-
 ### Mouse Action
 Using the mouse action
+
+### Login Page
+Login web page
 
 ### Loop
 Using For loop in agumentation
