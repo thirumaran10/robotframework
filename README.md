@@ -1,6 +1,6 @@
 # Robot FrameWork Automation
 
-## This Repo contains the basic Robot framework code for automation 
+## This Repo contains the basic Robot framework code for automation using python
 
 ## Tech stack
 - Version 7.4
