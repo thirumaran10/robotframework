@@ -59,4 +59,4 @@ Lodin using the various input data to login
 
 
 ### Testsuit
-Like notes about test suit, teardown
+Like notes about test setup, teardown also adding the resource file and getting the keyword from the resource file
