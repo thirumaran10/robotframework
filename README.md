@@ -4,7 +4,7 @@
 
 - Login Page
 - Check Box
-
+- Drop Down
 
 ## Tech stack
 - Version 7.4
