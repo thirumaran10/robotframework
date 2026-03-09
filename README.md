@@ -2,7 +2,8 @@
 
 ## This Repo contains the basic Robot framework code for automation using python as basic code and using selenium library
 
-- Login page
+- Login Page
+- Check Box
 
 
 ## Tech stack
