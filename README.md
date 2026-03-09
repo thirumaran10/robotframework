@@ -6,6 +6,7 @@
 - Check Box
 - Drop Down
 - Keyboard Action
+- Alerts
 
 ## Tech stack
 - Version 7.4
