@@ -7,6 +7,7 @@
 - Drop Down
 - Keyboard Action
 - Alerts
+- Multiple Browser
 
 ## Tech stack
 - Version 7.4
