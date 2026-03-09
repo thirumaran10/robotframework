@@ -5,6 +5,7 @@
 - Login Page
 - Check Box
 - Drop Down
+- Keyboard Action
 
 ## Tech stack
 - Version 7.4
