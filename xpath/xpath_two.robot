@@ -1,6 +1,7 @@
 #x-path
 *** Settings ***
 Library    SeleniumLibrary
+
 *** Variables ***
 ${url}    https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 ${browser}    chrome
