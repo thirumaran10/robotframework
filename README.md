@@ -55,7 +55,7 @@ Switching the window
 ### Table Validation
 Validating the table in a browser
 
-### Waits
+### Waits 
 Set waits to the webpage
 
 ### X-Path 
