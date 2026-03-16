@@ -58,7 +58,7 @@ Validating the table in a browser
 ### Waits
 Set waits to the webpage
 
-### X-Path
+### X-Path 
 Relational and absolute x-path
 
 ### Keywords 
