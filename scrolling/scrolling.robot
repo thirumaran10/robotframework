@@ -1,8 +1,10 @@
 *** Settings ***
 Library    SeleniumLibrary
+
 *** Variables ***
 ${url}    https://rahulshettyacademy.com/AutomationPractice/
 ${browser}    chrome
+
 *** Test Cases ***
 Scrolling
     Open Browser    ${url}    ${browser}
