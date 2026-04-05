@@ -1,8 +1,10 @@
 *** Settings ***
 Library    SeleniumLibrary
+
 *** Variables ***
 ${url}    https://rahulshettyacademy.com/loginpagePractise/
 ${browser}    chrome
+
 *** Test Cases ***
 waits in seleninm
     Open Browser    ${url}    chrome
