@@ -1,6 +1,7 @@
 #login page using variable input password
 *** Settings ***
 Library    SeleniumLibrary
+
 *** Variables ***
 ${url}    https://rahulshettyacademy.com/loginpagePractise/
 ${browser}    chrome
