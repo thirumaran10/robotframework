@@ -1,8 +1,10 @@
 *** Settings ***
 Library    SeleniumLibrary
+
 *** Variables ***
 ${url}    https://testautomationpractice.blogspot.com/ 
 ${browser}    chrome
+
 *** Test Cases ***
 tabbedwindow
     Open Browser    ${url}    ${browser}
