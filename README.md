@@ -8,6 +8,7 @@
 - Keyboard Action
 - Alerts
 - Multiple Browser
+- Data Driven
 
 ## Tech stack
 - Version 7.4
