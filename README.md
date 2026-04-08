@@ -6,6 +6,7 @@
 - Check Box
 - Drop Down
 - Keyboard Action
+- Mouse Action
 - Alerts
 - Multiple Browser
 - Data Driven
