@@ -40,9 +40,6 @@ Using For loop in agumentation
 ### Mouse Action 
 Using the mouse action
 
-### Radio Button 
-Using the radio button
-
 ### Multiple Browser 
 Using multiple browsers and multiple URL
 
