@@ -15,7 +15,7 @@
 - Version 7.4
 - Selenium Library
   
-### Alerts
+### Alerts 
 Selecting the alert button
 
 ### Checkboxes
