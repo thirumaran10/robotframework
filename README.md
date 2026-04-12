@@ -42,7 +42,7 @@ Using For loop in agumentation
 ### Mouse Action 
 Using the mouse action
 
-### Multiple Browser 
+### Multiple Browser
 Using multiple browsers and multiple URL
 
 ### Radio Button 
