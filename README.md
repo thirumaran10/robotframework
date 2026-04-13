@@ -27,10 +27,10 @@ Input datas
 ### Dropdown
 Selecting the dropdown option
 
-### Get Link
+### Get Link 
 Get the website link
 
-###  Keyboard Action 
+###  Keyboard Action
 Using the Keyboard actions 
 
 ### Login Page
