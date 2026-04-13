@@ -24,7 +24,7 @@ Selecting and unseleceting the check boxes
 ### Data Driven Test 
 Input datas
 
-### Dropdown
+### Dropdown 
 Selecting the dropdown option
 
 ### Get Link 
