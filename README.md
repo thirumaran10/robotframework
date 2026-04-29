@@ -18,16 +18,16 @@
 ### Alerts 
 Selecting the alert button
 
-### Checkboxes
+### Checkboxes 
 Selecting and unseleceting the check boxes
 
-### Data Driven Test 
+### Data Driven Test
 Input datas
 
-### Dropdown 
+### Dropdown
 Selecting the dropdown option
 
-### Get Link 
+### Get Link  
 Get the website link
 
 ###  Keyboard Action 
