@@ -57,13 +57,13 @@ Switching the window
 ### Table Validation
 Validating the table in a browser
 
-### Waits 
+### Waits
 Set waits to the webpage
 
-### X-Path 
+### X-Path
 Relational and absolute x-path
 
-### Keywords 
+### Keywords
 Lodin using the various input data to login
 
 ### Testsuit 
